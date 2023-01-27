@@ -1,4 +1,12 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+﻿![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
+## What was done:
+The macro was recorded on a single worksheet and later saved, and then it was applied repeatedly to other 3 worksheets. 
+
+## Key Takeaway
+
+For a macro saved in another workbook, for it to work in your workbook, the workbook containing the required macro should be kept **open**, and while choosing the macro from the *Macros* button in the Developer tab, from the option: *Macros in:* choose **All Open Workbooks**. This will assure you have the macro shown on the list of Macros for you to run.
+
 
 # Lab | Macros intro
 
